@@ -9,10 +9,10 @@ class script(object):
 <b>○ PLEASE DONT SPAM ME...🤒</b>
     
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    OWNER_TXT = """<b>✯ CREATOR: Hislordship</b>
-<b>✯ MOVIE CHANNEL: <a href=https://t.me/+R59lJd9RGV1iNzZk>Movie Collection</a></b>
-<b>✯ SERIES CHANNEL: <a href=https://t.me/+YqsbYu4L9NExNDI0>LordshipTV</a></b>
-<b>✯ CREDIT: Everyone in this journey</b>"""
+    ABOUT_TXT = """<b>✯ CREATOR: Hislordship</b>
+<b>✯ MOVIE CHANNEL: <a href=https://t.me/+R59lJd9RGV1iNzZk>Hislordship Movies</a></b>
+<b>✯ SERIES CHANNEL: <a href=https://t.me/+14mNx7OU_BxjMTE0>LordshipTV</a></b>
+<b>✯ CREDIT: To Everyone that created this repo</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>DEVELOPED BY:</b>
 - <a href=https://t.me/+R59lJd9RGV1iNzZk>MOVIE COLLECTION</a></b>"""
