@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton('Adult Bot🔞', url='https://t.me/AdultEmpire_xxx')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
-            InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
+            InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -100,7 +100,7 @@ async def start(client, message):
             InlineKeyboardButton('Adult Bot🔞', url='https://t.me/AdultEmpire_xxx')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
-            InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
+            InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
