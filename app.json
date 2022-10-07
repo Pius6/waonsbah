@@ -1,11 +1,11 @@
 {
-    "name": "EvaMariaBot",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "name": "Hislordship",
+    "description": "When you send a file on a telegram channel, this bot will save it on her database, So that you can search for it easily in inline mode",
     "stack": "container",
     "keywords": [
       "telegram",
-      "auto-filter",
-      "filter",
+      "telegramfiles",
+      "file",
       "best",
       "indian",
       "pyrogram",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/JstathamTG/Hislordship",
+    "repository": "https://github.com/JstathamTG/Hislordship",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
