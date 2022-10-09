@@ -3,7 +3,7 @@ class script(object):
     
 <b>Hey Sweetheart, My Name Is <a href=https://t.me/{}>{}</a>. I'm a Powerful Movie Auto-Filter Bot.</b>
 
-<b>You Can Use Me As An Auto-filter in Your Movie Group.... Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Tons of Movies There..😍</b>"""
+<b>Send me the Movie name or Add Me To Your Group As Admin, and i will Provide movies for you..😍</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
     
 <b>○ PLEASE DONT SPAM ME...🤒</b>
@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/lordshipmovies)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
