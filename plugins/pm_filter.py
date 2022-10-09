@@ -64,7 +64,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"⚡{get_size(file.file_size)}🔸{file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"⚡{get_size(file.file_size)}▪️{file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
@@ -642,7 +642,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"⚡{get_size(file.file_size)}🔸{file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"⚡{get_size(file.file_size)}▪️{file.file_name}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
@@ -789,8 +789,8 @@ async def advantage_spell_chok(msg):
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
     k = await msg.reply("I couldn't find anything related to that\nDid you mean any one of these?\n\nIf the movie you want is the one below, click on it",                
                     reply_markup=InlineKeyboardMarkup(btn))   
-        await asyncio.sleep(8)
-        await k.delete()
+    await asyncio.sleep(8)
+    await k.delete()
     
     
 async def manual_filters(client, message, text=False):
